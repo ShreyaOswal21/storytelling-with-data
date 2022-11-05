@@ -12,5 +12,8 @@ Here are a few things I hope to learn from this course:
 - Find and preprocess data for visualization
 - Build projects to start my portfolio
 
+# Government Debt Visualization
+[government-debt-viz.md]
+
 # Final Project
 <placeholder>
