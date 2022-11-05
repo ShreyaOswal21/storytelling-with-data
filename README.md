@@ -13,7 +13,7 @@ Here are a few things I hope to learn from this course:
 - Build projects to start my portfolio
 
 # Government Debt Visualization
-[government-debt-viz.md]
+[Governemnt Debt Visualization](government-debt-viz.md)
 
 # Final Project
 <placeholder>
