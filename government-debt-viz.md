@@ -14,12 +14,13 @@ In this visualization, we analyse trends in general goverment debts as the % of 
 
 
 #### Slope Chart
-The slope chart shows the trends in the Debt-to-GDP ratio from 2019 - 2021. The audeince in interetsed in knowing how the Government Debt has chnaged in the recent years and analyse the trends. As seen from the graph, there are three trends. The debt increases from the year 2019 to 2020. After 2020, the debt decreases for the majority of the countries, increases for some and remains nearly constant for one country. I used this chart because it is easier to analyse and compare trends across different countries for recent years. It is also easy to identify the relative debt of different countries. 
+The slope chart shows the trends in the Debt-to-GDP ratio from 2019 - 2021. The audeince in interetsed in knowing how the Government Debt has changed in the recent years and analyse the trends. As seen from the graph, there are three trends. The debt increases from the year 2019 to 2020. After 2020, the debt decreases for the majority of the countries, increases for some and remains nearly constant for one country. I used this chart because it is easier to analyse and compare trends across different countries for recent years. It is also easy to identify the relative debt of different countries based on the position of the country on thr graph. Countries higher up have a greater Debt-to-GDP ratio in the respective year. 
 I used orange and green colors to denote the two major trends and used grey for the one outlier country so that it remains in the background. To reduce eye travel, the country names and Debt-to-GDP ratio has been mentioned on both ends of the timeline.
 <div class="flourish-embed flourish-slope" data-src="visualisation/11712865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ### Comparing Different Charts
+All the charts use the data from :  OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 05 November 2022)  in the visualizations.
 The Bar chart shows the goverment debts as the % of total GDP for year 2021. Some countries are highlighted and some are grey. The numbers provided above the bar make is easier to read the exact values. It is easy to figure out the government debt for each country.
 
 The Grid of line charts does shows  trends in the data over a period of time for different countires. While this is useful to analyse how a country's Debt-to-GDP ratio performs overtime, it is difficult to read the chart. For instance, it is not easy to figure out that Japan has the highest Debt-to-GDP ratio.
