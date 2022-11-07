@@ -3,5 +3,11 @@
 
 
 ## Data Visualization with Flourish
+#### 
 Ceneterd hedaer columns and tried to make it look like sparklines
 <div class="flourish-embed flourish-chart" data-src="visualisation/11711168"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+#### Grid of line chart
+<div class="flourish-embed flourish-slope" data-src="visualisation/11712865"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
