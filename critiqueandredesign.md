@@ -2,7 +2,7 @@
 This task involves choosing a visualization, critiquing and redesigning it to make it more meaningful and impactful. 
 
 ## Finding a Data Visualization
-I choose the following image:
+I chose the following image:
 ![emissions](TopTwenty 1854-2018 Clmn CO2CH4.png)
 Source: Richard Heede, Climate Accountability Institute. 
 link:[source] (https://climateaccountability.org/pdf/CarbonMajorsPDF2020/Top%20Twenty%20graphics/Top%20Twenty%20graphics/TopTwenty%201854-2018%20Clmn%20CO2CH4.png)
@@ -21,11 +21,11 @@ I would change the graph to a horizontal stacked bar graph where the methane amo
 Following the observations in the critique, I sketched out two different solutions.
 
 ### Horizontal Stacked Bar Chart
-![emissions]()
+![stackedbar]()
 I converted the the chart horizontal bar chart with the methane amounts to the right and carbon dioxide amount to the left. This follows the usual eye movement, makes it easy to reach the bar of each company.I included the x-axis values at the top so that the user can understand the value with minimal eye travel. I also added the total values at the end of each bar and individual emission values to improve readability. I changed the x-axis value label to "Million tonnes of carbon dioxide and methane" to make the metric clear to the audience.I changed the color to dark green and light green for carbon dioxide and methane to make the distinction more obvious. I added a title "op 20 companies contributed to 523,323 million tonnes of carbon dioxide & methane emissions since 1854" to explain the purpose of the graph.
 
 ### Convert Stacked bar to three columns
-![emissions]()
+![horizontalstackedbar]()
 The second solution was to split the stacked bar graph into three different column charts with different colors - carbon dioxide,methane and total. This would eliminate the confusion regarding the individual amounts of carbon dioxide and methane. Choice of title and the use of horizontal bar chart had the same motivation as the previous solution. I changed the metric to billion tonnes to make the numbers more readable and reduce the clutter on the graph. I also added the total emissions by all companies.
 
 ## Test the solution
@@ -156,7 +156,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
   
   
- Finally, I included a chart to show that out of the 20 companies that contribute to maximum emissions, 5 are based in the United States. This is an important message for policy makers, climate activists and government who can then implement policies to bring this under control. This was an observation I adding country names to companies. I also thought of grouping the companies by countries using color, but this would increase the colors on the grpah. So I choose to highlight United States and depict other countries in grey.
+ Finally, I included a chart to show that out of the 20 companies that contribute to maximum emissions, 5 are based in the United States. This is an important message for policy makers, climate activists and government who can then implement policies to bring this under control. This was an observation I adding country names to companies. I also thought of grouping the companies by countries using color, but this would increase the colors on the graph. So I chose to highlight United States and depict other countries in grey.
 <div class='tableauPlaceholder' id='viz1668582262925' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonEmissions3&#47;Dashboard3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CarbonEmissions3&#47;Dashboard3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CarbonEmissions3&#47;Dashboard3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>
 var divElement = document.getElementById('viz1668582262925');
 var vizElement = divElement.getElementsByTagName('object')[0];
