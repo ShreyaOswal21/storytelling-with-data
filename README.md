@@ -15,5 +15,8 @@ Here are a few things I hope to learn from this course:
 # Government Debt Visualization
 [Governemnt Debt Visualization](government-debt-viz.md)
 
+# Critique and Redesign
+[Critique and Redesign](critiqueandredesign.md)
+
 # Final Project
 <placeholder>
