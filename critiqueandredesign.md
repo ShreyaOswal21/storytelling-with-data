@@ -3,7 +3,7 @@ This task involves choosing a visualization, critiquing and redesigning it to ma
 
 ## Finding a Data Visualization
 I chose the following image:
-![emissions](TopTwenty 1854-2018 Clmn CO2CH4.png)
+[emissions](TopTwenty 1854-2018 Clmn CO2CH4.png)
 Source: Richard Heede, Climate Accountability Institute. 
 link:[source] (https://climateaccountability.org/pdf/CarbonMajorsPDF2020/Top%20Twenty%20graphics/Top%20Twenty%20graphics/TopTwenty%201854-2018%20Clmn%20CO2CH4.png)
 
