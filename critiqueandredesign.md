@@ -7,7 +7,7 @@ I chose the following image:
 Source: Richard Heede, Climate Accountability Institute. 
 [Link to source](https://climateaccountability.org/pdf/CarbonMajorsPDF2020/Top%20Twenty%20graphics/Top%20Twenty%20graphics/TopTwenty%201854-2018%20Clmn%20CO2CH4.png)
 
-This image depicts the carbon dioxide and methane emissions of the Top 20 companies. The red values are methane emissions andbalck values are carbon dioxide. At a first glance, this visualization may seem unimportant to the audience. However, the data tells a much powerful story that has not been captured. These 20 companies together have emitted 523 billion tonnes of carbon dioxide and methane since 1854. They have contributed to approximately 30% of all carbon dioxide and methane since 1854. The severity of this lies in the fact that seven and a half billion people suffer a degraded planet so that some companies can make larger profits. This data is important to draw the attention of policy makers, politicians, climate activists and the general public so that they can enforce laws to bring this under control. At a time when the world and industries are trying to move towards sustainability and green initiatives, it is important to identfy areas that require a change. This is the reason I chose this graph. I aim to make this graph more readable, so that it is approachble even by the general publi
+This image depicts the carbon dioxide and methane emissions of the Top 20 companies. The red values are methane emissions andbalck values are carbon dioxide. At a first glance, this visualization may seem unimportant to the audience. However, the data tells a much powerful story that has not been captured. These 20 companies together have emitted 523 billion tonnes of carbon dioxide and methane since 1854. They have contributed to approximately 30% of all carbon dioxide and methane since 1854. The severity of this lies in the fact that seven and a half billion people suffer a degraded planet so that some companies can make larger profits. This data is important to draw the attention of policy makers, politicians, climate activists and the general public so that they can enforce laws to bring this under control. At a time when the world and industries are trying to move towards sustainability and green initiatives, it is important to identfy areas that require a change. This is the reason I chose this graph. I aim to make this graph more readable, so that it is approachble even by the ge
 
 ## Critique the data visualization
 
@@ -103,8 +103,6 @@ Response:
  - User 1 - Try a color scale that sums and use the final color for total. For eg. red(methane) + blue(carbon dioxide) which gives purple(total). 
  - User 2 - Show only total since that's important.
  - User 3 - Add percentages to make it more intuitive, change colors. 
-
-
 
 ### Observations
 Similarities:
