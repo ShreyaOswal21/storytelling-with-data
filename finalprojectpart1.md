@@ -12,3 +12,10 @@ of a sleep quality on the functioning of memory, audience will be able to better
 audience to maintain a healthy sleep cycle to enhance learning abilities and their overall health.
 
 ### Project Structure
+The project will folow the structure outlined below:
+1. Why is sleep important? - Time spent sleeping by people in the United States 
+2. Journey through sleep - Stages in Sleep Cycle
+3. How much can you remember? - Storage capacity of the brain
+4. Working while sleeping - Effects of sleep on short term memory, memory retention, consolidation of information and academic grades
+5. What happens and when - Show how each of the effects take place during different stages of the sleep cycle. Draw correlations to prioritise different stages of sleep depending on memeory activity
+6. Make the most of your sleep - Suggest learning habits that follow from the data and research to help the audience develop a healthy sleep cycle and improve their learning and memeory retention capabilities
