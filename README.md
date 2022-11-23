@@ -19,4 +19,4 @@ Here are a few things I hope to learn from this course:
 [Critique and Redesign](critiqueandredesign.md)
 
 # Final Project
-<placeholder>
+[Final Project Part 1](finalprojectpart1.md)
