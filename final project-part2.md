@@ -1,7 +1,7 @@
 # Journey through sleep - Students have been sleep-deprived, small steps can help make a change
 
 ## Link to Shorthand Draft for wireframes and storyboards
-![Draft](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
+[Draft](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
 
 ###  The target audience I hope to reach with my story
 The target audience for this story is college students. The story focuses on how sleep is important for the functioning of memory, which is important for students as they are continuously learning and developing new skills. There is also a focus on students from Carnegie Mellon University since the story mentions some aspects of the lifestyle of students from this university 
