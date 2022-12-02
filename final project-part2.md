@@ -53,6 +53,7 @@ If you were shown how sleep correlates to grades, would that make a difference?
 Responses:
 
 User 1
+
 | Question      | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Importance of sleep and how we can improve  |
@@ -67,8 +68,9 @@ User 1
 
 
 User 2
+
 | Question  | Response |
-| ------------- | ------------- |
+| -------------     | ------------- |
 | What do you think the story trying to convey? | Importance of deep sleep, students are sleep deprived, how can we improve |
 | What part connected/resonated with you the most?  | Statistics on CMU students and graphs on the effect of coffee. "I love drinking coffee and found this information very interesting"  |
 | What worked well for you? | Critical time to sleep and how CMU students are late by 23 mins, sleep cycle stages in blue, effect of caffeine consumption at different times  |
@@ -81,6 +83,7 @@ User 2
 
 
 User 3
+
 | Question  | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Reasons why sleep is getting affected for students and solutions to improve it  |
