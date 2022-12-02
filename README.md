@@ -19,4 +19,8 @@ Here are a few things I hope to learn from this course:
 [Critique and Redesign](critiqueandredesign.md)
 
 # Final Project
+Part 1
 [Final Project Part 1](finalprojectpart1.md)
+
+Part 2
+[Final Project Part 2](final project-part2.md)
