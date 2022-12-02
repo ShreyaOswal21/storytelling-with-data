@@ -1,7 +1,7 @@
 # Journey through sleep - Students have been sleep-deprived, small steps can help make a change
 
 ## Link to Shorthand Draft for wireframes and storyboards
-[Draft](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
+[Link to Storyboard and Wireframes](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
 
 ###  The target audience I hope to reach with my story
 The target audience for this story is college students. The story focuses on how sleep is important for the functioning of memory, which is important for students as they are continuously learning and developing new skills. There is also a focus on students from Carnegie Mellon University since the story mentions some aspects of the lifestyle of students from this university 
@@ -53,38 +53,40 @@ User 1
 | Question  | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Importance of sleep and how we can improve  |
-| What part connected/resonated with you the most?  | Statistics on CMU students and how they are sleep deprived. There were weeks where I only slept for 4 hours due to heavy coursework  |
+| What part connected/resonated with you the most?  | Statistics on CMU students and how they are sleep deprived. "There were weeks where I only slept for 4 hours due to heavy coursework"  |
 | What worked well for you? | The realisation that CMU students are actually sleep deprived and statistics on how bad it is |
 | What could be improved?  | The first graph on coffee with the circles can be changed  |
 | Is there anything else that you would like to see regarding this topic that would help you? | Other healthy sleep habits, statistics on the impact of screen time on sleep  |
-| What was unclear and confusing? | The data for the effect of coffee consumption just before bedtime and 3 hours before bedtime was not as expected. 3 hours before bedtime should have been better. The size of the circles for the time taken to fall sleep depending on coffee were all the same.|
+| What was unclear and confusing? | The data for the effect of coffee consumption just before bedtime and 3 hours before bedtime was not as expected. "3 hours before bedtime should have been better". The size of the circles for the time taken to fall sleep depending on coffee were all the same.|
 | After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | Content Cell  |
 | If you were shown how sleep correlates to grades, would that make a difference?  | Yes  |
+
 
 
 User 2
 | Question  | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Importance of deep sleep, students are sleep deprived, how can we improve |
-| What part connected/resonated with you the most?  | Statistics on CMU students and graphs on the effect of coffee. I love drinking coffee and found this information very interesting  |
+| What part connected/resonated with you the most?  | Statistics on CMU students and graphs on the effect of coffee. "I love drinking coffee and found this information very interesting"  |
 | What worked well for you? | Critical time to sleep and how CMU students are late by 23 mins, sleep cycle stages in blue, effect of caffeine consumption at different times  |
 | What could be improved?  | Titles in general, especially for coffee and screen time, 2 steps should be visible first and then explanations, blue color for graph is not in accordance with the theme |
 | Is there anything else that you would like to see regarding this topic that would help you? | Reasons for disturbed sleep cycle for students |
 | What was unclear and confusing? | There was no data for the effect of screen time |
 | After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | Content Cell  |
-| If you were shown how sleep correlates to grades, would that make a difference?  | yes for sleep duration, sleep time is driven by circumstances so that is hard to change for me |
+| If you were shown how sleep correlates to grades, would that make a difference?  | yes for sleep duration, "sleep time is driven by circumstances so that is hard to change for me" |
+
 
 
 User 3
 | Question  | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Reasons why sleep is getting affected for students and solutions to improve it  |
-| What part connected/resonated with you the most?  | Reasons given for sleep efficiency getting affected. These are the reasons for my bad sleep schedule and I could relate to why my sleep schedule is bad|
+| What part connected/resonated with you the most?  | Reasons given for sleep efficiency getting affected. "These are the reasons for my bad sleep schedule and I could relate to why my sleep schedule is bad"|
 | What worked well for you? | Initial statistics on how we spend 1/3rd of our life sleeping and that's why sleep is so important|
 | What could be improved?  | Avoid having 2-3 graphs in a row since reduces attention span, state numbers while stating 2 things to improve  |
 | Is there anything else that you would like to see regarding this topic that would help you? | Importance of sleep for the brain and for academics, what effect does sleep have on memory and if any illnesses are caused due to lack of proper sleep, statistics on effect of using phone on sleep and memory |
 | What was unclear and confusing? | Coffee graphs were repititive, in the graph circle graph, The size of the circles for the time taken to fall sleep depending on coffee had no significance |
-| After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | Content Cell  |
+| After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | I would need stronger reasons and details on how harmful it is for my brain for me to make this lifestyle change. "I am used to consuming alot of coffee and it is a big shift for me so I would need strong datapoints".  |
 | If you were shown how sleep correlates to grades, would that make a difference?  | Yes  |
 
 Learnings:
@@ -108,3 +110,4 @@ Improvements in Part 3:
 - Keep the graph for the Coffee Consumption Time takes time taken to fall asleep and remove 1-2 graphs from the coffee to focus the attention
 - Add the meaning of placebo
 - Reduce content on the slide for coffee
+- Change color of the sleep cycles graph since it is not inline with the color theme
