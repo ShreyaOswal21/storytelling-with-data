@@ -53,7 +53,7 @@ If you were shown how sleep correlates to grades, would that make a difference?
 Responses:
 
 User 1
-| Question  | Response |
+| Question      | Response |
 | ------------- | ------------- |
 | What do you think the story trying to convey? | Importance of sleep and how we can improve  |
 | What part connected/resonated with you the most?  | Statistics on CMU students and how they are sleep deprived. "There were weeks where I only slept for 4 hours due to heavy coursework"  |
