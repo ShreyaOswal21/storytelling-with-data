@@ -1,7 +1,10 @@
 # Journey through sleep - Students have been sleep-deprived, small steps can help make a change
 
+## Link to Part 1
+[Part 1](https://shreyaoswal21.github.io/storytelling-with-data/finalprojectpart1)
+
 ## Link to Shorthand Draft for wireframes and storyboards
-[Link to Storyboard and Wireframes](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
+[Shorthand Link to Storyboard and Wireframes](https://app.shorthand.com/organisations/JSrgFWI7zn/stories/EF9ejvI43c)
 
 ###  The target audience I hope to reach with my story
 The target audience for this story is college students. The story focuses on how sleep is important for the functioning of memory, which is important for students as they are continuously learning and developing new skills. There is also a focus on students from Carnegie Mellon University since the story mentions some aspects of the lifestyle of students from this university 
@@ -111,3 +114,8 @@ Improvements in Part 3:
 - Add the meaning of placebo
 - Reduce content on the slide for coffee
 - Change color of the sleep cycles graph since it is not inline with the color theme
+
+
+
+## Go back to Main Page
+[Main Page](https://shreyaoswal21.github.io/storytelling-with-data)
