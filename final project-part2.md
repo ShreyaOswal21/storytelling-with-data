@@ -61,7 +61,7 @@ User 1
 | What could be improved?  | The first graph on coffee with the circles can be changed  |
 | Is there anything else that you would like to see regarding this topic that would help you? | Other healthy sleep habits, statistics on the impact of screen time on sleep  |
 | What was unclear and confusing? | The data for the effect of coffee consumption just before bedtime and 3 hours before bedtime was not as expected. "3 hours before bedtime should have been better". The size of the circles for the time taken to fall sleep depending on coffee were all the same.|
-| After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | Content Cell  |
+| After going through this, is there anything you are inclined to change in your sleep schedule? Why and why not? | I would try to monitor my coffee time. Would need more data for screen time |
 | If you were shown how sleep correlates to grades, would that make a difference?  | Yes  |
 
 
