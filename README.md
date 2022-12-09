@@ -24,3 +24,6 @@ Part 1
 
 Part 2
 [Final Project Part 2](final project-part2.md)
+
+Part 3
+[Final Project Part 3](final-project-part3)
