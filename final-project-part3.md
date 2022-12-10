@@ -13,6 +13,12 @@
 - Change color of the sleep cycles graph since it is not inline with the color theme
 
 # Part 3
+### Link to shorthand site for final project part 3
+[Journey Through Sleep](https://carnegiemellon.shorthandstories.com/journey-through-sleep/index.html)
+
+### Link to shorthand site for final project presentation
+[Journey Through Sleep Presentation](https://carnegiemellon.shorthandstories.com/journey-through-sleep-presentation/index.html)
+
 From the proposed changes, I did the priority exercise to narrow down the changes that could be implemented based on feasibility vs value to user:
 
 !(image)[Priority exercise.jpg]
@@ -21,15 +27,15 @@ I made the changes marked in green and did not make the changes marked in red.
 Here are a few important changes:
 I changed the color of the graphs for sleep and also added the percentages of time spent in each cycle. Here is a comparison of the original vs the final visualization:
 
-!(original)[Sleep Cycle@2x.jpeg]
+![original](Sleep Cycle@2x.jpeg)
 
-!(finalversion)[Sleep Cycle.png]
+![finalversion](Sleep Cycle.png)
 
 I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll.
-!(image)[placebo.jpeg]
+![image](placebo.jpeg)
 
 Added statistics for the effect of screen time on sleep efficiency and time taken to fall asleep.
-!(image)[Screen time affects time to fall asleep dashboard (1).png]
+![image](Screen time affects time to fall asleep dashboard (1).png)
 
 
 ### Story
@@ -59,7 +65,11 @@ I avoided bright colors in the project since my topic was sleep and I wanted to 
 
 Aminoff, Michael, François Boller, and Dick Swaab. 2011. “We Spend about One-Third of Our Life Either Sleeping or Attempting to Do So.” Handbook of Clinical Neurology / Edited by P.J. Vinken and G.W. Bruyn 98 (January): vii. https://doi.org/10.1016/B978-0-444-52006-7.00047-2.
 
+Roser, Max, Esteban Ortiz-Ospina, and Hannah Ritchie. 2013. “Life Expectancy.” Our World in Data, May. https://ourworldindata.org/life-expectancy.
+
 Patel, Aakash K., Vamsi Reddy, Karlie R. Shumway, and John F. Araujo. 2022. Physiology, Sleep Stages. StatPearls [Internet]. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK526132/.
+
+“Sleep On It.” 2017. NIH News in Health. May 31, 2017. https://newsinhealth.nih.gov/2013/04/sleep-it.
 
 “Sleep and Academic Performance Statistics & Sleep Tips for College Students.” 2021. Research.Com. March 22, 2021. https://research.com/education/sleep-and-academic-performance-statistics.
 
@@ -69,7 +79,18 @@ Patel, Aakash K., Vamsi Reddy, Karlie R. Shumway, and John F. Araujo. 2022. Phys
 
 Drake, Christopher, Timothy Roehrs, John Shambroom, and Thomas Roth. n.d. “Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed.” Journal of Clinical Sleep Medicine 09 (11): 1195–1200. https://doi.org/10.5664/jcsm.3170.
 
-“Study: Better Sleep Habits Lead to Better College Grades.” n.d. MIT News | Massachusetts Institute of Technology. Accessed December 9, 2022. https://news.mit.edu/2019/better-sleep-better-grades-1001.
+“Study: Better Sleep Habits Lead to Better College Grades.” n.d. MIT News.Massachusetts Institute of Technology. Accessed December 9, 2022. https://news.mit.edu/2019/better-sleep-better-grades-1001.
+
+“The Effects of Screen Time on Your Sleep Schedule. RMHP Blog.” n.d. Accessed December 9, 2022. https://www.rmhp.org/blog/2021/january/the-effects-of-screen-time-on-your-sleep-schedule.
+
+“Screens and Your Sleep: The Impact of Nighttime Use | Sutter Health.” n.d. Accessed December 9, 2022. https://www.sutterhealth.org/health/sleep/screens-and-your-sleep-the-impact-of-nighttime-use.
+
+Hjetland, Gunnhild J., Jens C. Skogen, Mari Hysing, and Børge Sivertsen. 2021. “The Association Between Self-Reported Screen Time, Social Media Addiction, and Sleep Among Norwegian University Students.” Frontiers in Public Health 9. https://www.frontiersin.org/articles/10.3389/fpubh.2021.794307.
+
+
+# Back to main page
+[Main Page](https://shreyaoswal21.github.io/storytelling-with-data)
+
 
 
 
