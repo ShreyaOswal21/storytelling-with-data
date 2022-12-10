@@ -14,11 +14,13 @@ Here are a few things I hope to learn from this course:
 - Find and preprocess data for visualization
 - Build projects to start my portfolio
 
-# Government Debt Visualization
+# Assignments
+
+## Government Debt Visualization
 This task involved telling your own story from a given a dataset. An attempt is made to depict different stories using grid of line charts and slope graphs. It also compares the different graphs.
 [Governemnt Debt Visualization](government-debt-viz.md)
 
-# Critique and Redesign
+## Critique and Redesign
 This work involves a critique and redesign of the image depicts the carbon dioxide and methane emissions of the Top 20 companies. User testing was also performed to get a better understanding of the how users perceive the redesign.
 [Critique and Redesign](critiqueandredesign.md)
 
