@@ -1,5 +1,8 @@
 # Story so far:
-[Part 1](finalprojectpart1.md) introduced the idea for the final project - What happens to your memeory when you sleep? The aim was to discuss the importance of sleep in retaining and consolidating memory so that students are encoiuraged to improve their sleep schedule.
+[Part 1](finalprojectpart1.md) introduced the idea for the final project - What happens to your memeory when you sleep? The aim was to discuss the importance of sleep in retaining and consolidating memory so that students are encouraged to improve their sleep schedule.
+
+#### Learnings
+![](part1-learnings.jpg)
 
 [Part 2](final project-part2.md) incorporated feedback from part 1 to narrow the focus. I decided to talk about the importance of sleep, discuss different sleep stages and how it affects memory, discuss effects of caffeine and screen times on sleep and present clear call to actions. This part also presented high fidelity graphs that i intended to use. After the user testing, in class critique and feedback from grading, these were the proposed changes:
 
@@ -11,6 +14,10 @@
 - Add the meaning of placebo
 - Reduce content on the slide for coffee
 - Change color of the sleep cycles graph since it is not inline with the color theme
+- 
+#### Learnings
+![](learnings-part2.jpg)
+
 
 # Part 3
 ### Link to shorthand site for final project part 3
@@ -21,20 +28,21 @@
 
 From the proposed changes, I did the priority exercise to narrow down the changes that could be implemented based on feasibility vs value to user:
 
-!(image)[Priority exercise.jpg]
+![image](Priority exercise.jpg)
 
 I made the changes marked in green and did not make the changes marked in red. 
 Here are a few important changes:
-I changed the color of the graphs for sleep and also added the percentages of time spent in each cycle. Here is a comparison of the original vs the final visualization:
+- Added reasons for sleeping late by students
+- I changed the color of the graphs for sleep and also added the percentages of time spent in each cycle. Here is a comparison of the original vs the final visualization:
 
-![original](Sleep Cycle@2x.jpeg)
+![original](Sleep Cycle@2x-resized.jpeg)
 
-![finalversion](Sleep Cycle.png)
+![finalversion](sleepcycle-resized.png)
 
-I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll.
+- I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll.
 ![image](placebo.jpeg)
 
-Added statistics for the effect of screen time on sleep efficiency and time taken to fall asleep.
+- Added statistics for the effect of screen time on sleep efficiency and time taken to fall asleep.
 ![image](Screen time affects time to fall asleep dashboard (1).png)
 
 
@@ -83,7 +91,7 @@ Drake, Christopher, Timothy Roehrs, John Shambroom, and Thomas Roth. n.d. “Caf
 
 “The Effects of Screen Time on Your Sleep Schedule. RMHP Blog.” n.d. Accessed December 9, 2022. https://www.rmhp.org/blog/2021/january/the-effects-of-screen-time-on-your-sleep-schedule.
 
-“Screens and Your Sleep: The Impact of Nighttime Use | Sutter Health.” n.d. Accessed December 9, 2022. https://www.sutterhealth.org/health/sleep/screens-and-your-sleep-the-impact-of-nighttime-use.
+“Screens and Your Sleep: The Impact of Nighttime Use. Sutter Health.” n.d. Accessed December 9, 2022. https://www.sutterhealth.org/health/sleep/screens-and-your-sleep-the-impact-of-nighttime-use.
 
 Hjetland, Gunnhild J., Jens C. Skogen, Mari Hysing, and Børge Sivertsen. 2021. “The Association Between Self-Reported Screen Time, Social Media Addiction, and Sleep Among Norwegian University Students.” Frontiers in Public Health 9. https://www.frontiersin.org/articles/10.3389/fpubh.2021.794307.
 
