@@ -28,3 +28,6 @@ The Grid of line charts does shows trends in the data over a period of time for 
 The Slope chart is an attempt to combine the advanatges of both these charts. It focuses on recent trends and categorises countries based on trends for an audience that is interested in studying trends for the latest years and knowing how countries perform relative to each other.. It makes is easy for the user to determine which countries have the highest and lowest Debt-to-GDP ratio by the position on the graph as well as the numneric values. Users can hover over a line to get more information.If the numbers of countries is more, this chart could be difficult to read. To overcome this, we could focus on countries of interest and show the other countries in grey.
 
 
+## Go back to Main Page
+[Main Page](https://shreyaoswal21.github.io/storytelling-with-data)
+
