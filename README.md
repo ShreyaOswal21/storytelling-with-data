@@ -34,7 +34,7 @@ Part 1 involved choosing the topic, creating the story outline, initial sketches
 
 Part 2
 Part 2 involved using the initial outline and sketches to create wireframes and storyboards. I also conducted user researcha and user testing to gain more insight into what the audience wants to see.
-[Final Project Part 2](https://shreyaoswal21.github.io/storytelling-with-data/final project-part2)
+[Final Project Part 2](https://shreyaoswal21.github.io/storytelling-with-data/final%20project-part2)
 
 Part 3
 Part 3 involved putting all the components together to create a story on shorthand. It involved converting the wireframes into a story and incorporating useer feedback.
