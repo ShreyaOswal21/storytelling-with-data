@@ -4,7 +4,7 @@
 #### Learnings
 ![](part1-learnings.jpg)
 
-[Part 2]([final project-part2.md](https://shreyaoswal21.github.io/storytelling-with-data/final%20project-part2)) incorporated feedback from part 1 to narrow the focus. I decided to talk about the importance of sleep, discuss different sleep stages and how it affects memory, discuss effects of caffeine and screen times on sleep and present clear call to actions. This part also presented high fidelity graphs that i intended to use. After the user testing, in class critique and feedback from grading, these were the proposed changes:
+[Part 2](https://shreyaoswal21.github.io/storytelling-with-data/final%20project-part2) incorporated feedback from part 1 to narrow the focus. I decided to talk about the importance of sleep, discuss different sleep stages and how it affects memory, discuss effects of caffeine and screen times on sleep and present clear call to actions. This part also presented high fidelity graphs that i intended to use. After the user testing, in class critique and feedback from grading, these were the proposed changes:
 
 - Include statistics on the effect of screen time on sleep
 - Add reasons for bad sleep schedule
