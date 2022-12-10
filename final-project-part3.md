@@ -39,7 +39,7 @@ Here are a few important changes:
 
 ![finalversion](sleepcycle-resized.png)
 
-- I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll.
+- I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll
 ![image](placebo.jpeg)
 
 - Added statistics for the effect of screen time on sleep efficiency and time taken to fall asleep.
