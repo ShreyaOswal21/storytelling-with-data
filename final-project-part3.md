@@ -28,7 +28,7 @@
 
 From the proposed changes, I did the priority exercise to narrow down the changes that could be implemented based on feasibility vs value to user:
 
-![image](Priority exercise.jpg)
+![image](Priorityexercise.jpg)
 
 I made the changes marked in green and did not make the changes marked in red. 
 Here are a few important changes:
