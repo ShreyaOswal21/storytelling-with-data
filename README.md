@@ -4,7 +4,7 @@ This is my public portfolio for the course Telling Stories with Data.
 # About Me
 I am pursuing my Masters in Information Systems Management at Carengie Mellon University. I am passionate about integrating data, technology and people to create an impact. Data Vosualization is a new formed interest that I am exploring to uncover powerful ways to convey a story through data.
 
-![image](photo2.jpg)
+![image](picture.jpg)
 
 # What I Hope to Learn 
 Here are a few things I hope to learn from this course:
@@ -30,12 +30,12 @@ The project was divided into three parts:
 
 Part 1
 Part 1 involved choosing the topic, creating the story outline, initial sketches, getting working datasets and choosing the medium for presenting the information
-[Final Project Part 1](finalprojectpart1.md)
+[Final Project Part 1](https://shreyaoswal21.github.io/storytelling-with-data/finalprojectpart1)
 
 Part 2
-Part 2 involded using the initial outline and sketches to create wireframes and storyboards. I also conducted user researcha and user testing to gain more insight into what the audience wants to see.
-[Final Project Part 2](final project-part2.md)
+Part 2 involved using the initial outline and sketches to create wireframes and storyboards. I also conducted user researcha and user testing to gain more insight into what the audience wants to see.
+[Final Project Part 2](https://shreyaoswal21.github.io/storytelling-with-data/final project-part2)
 
 Part 3
 Part 3 involved putting all the components together to create a story on shorthand. It involved converting the wireframes into a story and incorporating useer feedback.
-[Final Project Part 3](final-project-part3)
+[Final Project Part 3](https://shreyaoswal21.github.io/storytelling-with-data/final-project-part3)
