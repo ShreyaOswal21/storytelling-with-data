@@ -1,11 +1,3 @@
-A final writeup for Part III on a new Github page that summarizes all the work you've done thus far to create your final project.  
-
-2. A final data story / report on Shorthand (or similar platform you proposed in Part I). 
-
-3. A Word document that includes the text for your final report submitted through TurnItIn. 
-
-4. A presentation given on your final data story / report during class. 
-
 # Story so far:
 [Part 1](finalprojectpart1.md) introduced the idea for the final project - What happens to your memeory when you sleep? The aim was to discuss the importance of sleep in retaining and consolidating memory so that students are encoiuraged to improve their sleep schedule.
 
@@ -22,11 +14,15 @@ A final writeup for Part III on a new Github page that summarizes all the work y
 
 # Part 3
 From the proposed changes, I did the priority exercise to narrow down the changes that could be implemented based on feasibility vs value to user:
+
 !(image)[Priority exercise.jpg]
+
 I made the changes marked in green and did not make the changes marked in red. 
 Here are a few important changes:
 I changed the color of the graphs for sleep and also added the percentages of time spent in each cycle. Here is a comparison of the original vs the final visualization:
+
 !(original)[Sleep Cycle@2x.jpeg]
+
 !(finalversion)[Sleep Cycle.png]
 
 I also changed the graph for effect of coffee consumption on time taken to fall asleep with focus on each element as users scroll.
