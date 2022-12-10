@@ -118,7 +118,9 @@ Improvements in Part 3:
 - Reduce content on the slide for coffee
 - Change color of the sleep cycles graph since it is not inline with the color theme
 
-
+## Whats next?
+Part 3
+[Go to Part 3](https://shreyaoswal21.github.io/storytelling-with-data/final-project-part3)
 
 ## Go back to Main Page
 [Main Page](https://shreyaoswal21.github.io/storytelling-with-data)
