@@ -35,7 +35,7 @@ Here are a few important changes:
 - Added reasons for sleeping late by students
 - I changed the color of the graphs for sleep and also added the percentages of time spent in each cycle. Here is a comparison of the original vs the final visualization:
 
-![original](Sleep Cycle@2x-resized.jpeg)
+![original](SleepCycle@2x-resized.jpeg)
 
 ![finalversion](sleepcycle-resized.png)
 
