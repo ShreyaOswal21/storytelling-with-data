@@ -27,9 +27,13 @@ This will cover reasearch that proves that sleep is import to retain new informa
 
 ### Initial sketches
 ![introduction1](Screenshot 2022-11-27 at 11.36.05 PM.png)
-![sleep cycle](Screenshot 2022-11-23 at 10.52.27 AM.png)
+
+![sleepcycle](Screenshot 2022-11-23 at 10.52.27 AM.png)
+
 ![brain](Screenshot 2022-11-23 at 10.50.01 AM.png)
+
 ![shorttermmemory](IMG-9149.jpg)
+
 ![sleepandmemory](Screenshot 2022-11-23 at 10.50.49 AM.png)
 
 
