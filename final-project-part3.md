@@ -1,10 +1,10 @@
 # Story so far:
-[Part 1](finalprojectpart1.md) introduced the idea for the final project - What happens to your memeory when you sleep? The aim was to discuss the importance of sleep in retaining and consolidating memory so that students are encouraged to improve their sleep schedule.
+[Part 1](https://shreyaoswal21.github.io/storytelling-with-data/finalprojectpart1.html) introduced the idea for the final project - What happens to your memeory when you sleep? The aim was to discuss the importance of sleep in retaining and consolidating memory so that students are encouraged to improve their sleep schedule.
 
 #### Learnings
 ![](part1-learnings.jpg)
 
-[Part 2](final project-part2.md) incorporated feedback from part 1 to narrow the focus. I decided to talk about the importance of sleep, discuss different sleep stages and how it affects memory, discuss effects of caffeine and screen times on sleep and present clear call to actions. This part also presented high fidelity graphs that i intended to use. After the user testing, in class critique and feedback from grading, these were the proposed changes:
+[Part 2]([final project-part2.md](https://shreyaoswal21.github.io/storytelling-with-data/final%20project-part2)) incorporated feedback from part 1 to narrow the focus. I decided to talk about the importance of sleep, discuss different sleep stages and how it affects memory, discuss effects of caffeine and screen times on sleep and present clear call to actions. This part also presented high fidelity graphs that i intended to use. After the user testing, in class critique and feedback from grading, these were the proposed changes:
 
 - Include statistics on the effect of screen time on sleep
 - Add reasons for bad sleep schedule
