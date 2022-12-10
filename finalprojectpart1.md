@@ -49,5 +49,13 @@ Data for this project will mainly be derived from various research papers, artic
 ### Method and medium
 I plan to use shorthand for this project. It will enable to be tell my story using different page templates for different aspects of my story. For the different visualizations I will be using Tableau and Flourish. 
 
+## Whats next?
+#### Part 2
+[Go to Part 2](https://shreyaoswal21.github.io/storytelling-with-data/final project-part2)
 
+#### Part 3
+[Go to Part 3](https://shreyaoswal21.github.io/storytelling-with-data/final-project-part3)
+
+## Go back to Main Page
+[Main Page](https://shreyaoswal21.github.io/storytelling-with-data)
 
